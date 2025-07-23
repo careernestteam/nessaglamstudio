@@ -15,7 +15,7 @@ const InstagramFeed = () => {
     },
     {
       id: 2,
-      image: 'https://images.pexels.com/photos/3065160/pexels-photo-3065160.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      image: 'https://i.ibb.co/jvWyHCm3/side-view-smiley-woman-with-afro-hair.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       alt: 'Hair installation service - Professional weave',
       likes: 189,
       comments: 12,
