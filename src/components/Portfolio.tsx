@@ -7,7 +7,7 @@ const Portfolio = () => {
   const portfolioItems = [
     {
       id: 1,
-      image: 'https://images.pexels.com/photos/3065160/pexels-photo-3065160.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+      image: 'https://i.ibb.co/wh23wrrF/Screenshot-2025-07-23-033851.png?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
       alt: 'Professional bridal makeup transformation - Nessa Glam Studio Johannesburg',
       category: 'Bridal Makeup',
       title: 'Elegant Bridal Look'
