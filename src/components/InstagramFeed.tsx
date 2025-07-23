@@ -39,7 +39,7 @@ const InstagramFeed = () => {
     },
     {
       id: 5,
-      image: 'https://images.pexels.com/photos/3065212/pexels-photo-3065212.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      image: 'https://i.ibb.co/N6tW0L3j/beauty-young-latin-woman-with-ideal-skin.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       alt: 'Hair closure installation - Professional styling',
       likes: 178,
       comments: 11,
