@@ -14,7 +14,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      image: 'https://images.pexels.com/photos/3065161/pexels-photo-3065161.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+      image: 'https://i.ibb.co/93gXT1qY/woman-latino-hair-salon.jpg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
       alt: 'Hair installation weave service - Professional hair stylist Johannesburg',
       category: 'Hair Installation',
       title: 'Luxury Hair Weave'
