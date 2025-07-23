@@ -47,7 +47,7 @@ const InstagramFeed = () => {
     },
     {
       id: 6,
-      image: 'https://images.pexels.com/photos/3065210/pexels-photo-3065210.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      image: 'https://i.ibb.co/dJDwRKwm/beautiful-young-caucasian-female-with-blonde-hair-sunglasses-purple-dress-black-dress-sits-her-cozy.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       alt: 'Special occasion makeup - Red carpet ready',
       likes: 267,
       comments: 22,
