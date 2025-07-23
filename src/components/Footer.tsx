@@ -47,7 +47,7 @@ const Footer = () => {
             {/* Social Links */}
             <div className="flex space-x-4">
               <a
-                href="https://instagram.com/nessaglamstudio"
+                href="https://instagram.com/nessa_glam_studio"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-pink-500 to-purple-600 w-10 h-10 rounded-full flex items-center justify-center hover:scale-110 transition-transform duration-300"
