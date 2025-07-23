@@ -42,7 +42,7 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      image: 'https://images.pexels.com/photos/3065212/pexels-photo-3065212.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+      image: 'https://i.ibb.co/XxpBX1T9/process-making-afro-curly-hair.jpg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
       alt: 'Special occasion makeup - Affordable glam studio Johannesburg',
       category: 'Special Events',
       title: 'Red Carpet Ready'
