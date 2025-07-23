@@ -90,7 +90,7 @@ const InstagramFeed = () => {
             <div 
               key={post.id}
               className="group relative aspect-square overflow-hidden rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2 cursor-pointer"
-              onClick={() => window.open('https://instagram.com/nessaglamstudio', '_blank')}
+              onClick={() => window.open('https://instagram.com/nessa_glam_studio', '_blank')}
             >
               <img 
                 src={post.image}
