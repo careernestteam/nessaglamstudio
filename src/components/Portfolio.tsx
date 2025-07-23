@@ -21,7 +21,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      image: 'https://images.pexels.com/photos/3065204/pexels-photo-3065204.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+      image: 'https://i.ibb.co/7tv52sbq/Screenshot-2025-07-23-034757.png?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
       alt: 'Glam makeup for special events - Makeup artist South Africa',
       category: 'Glam Makeup',
       title: 'Evening Glam'
