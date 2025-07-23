@@ -23,7 +23,7 @@ const InstagramFeed = () => {
     },
     {
       id: 3,
-      image: 'https://images.pexels.com/photos/3065204/pexels-photo-3065204.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      image: 'https://i.ibb.co/352nqd2c/portrait-beautiful-woman-applying-make-up-her-face-while-looking-mirror.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       alt: 'Glam makeup for special events',
       likes: 156,
       comments: 9,
