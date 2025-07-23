@@ -66,7 +66,7 @@ const Header = () => {
           {/* Social Links & Mobile Menu */}
           <div className="flex items-center space-x-4">
             <a
-              href="https://instagram.com/nessaglamstudio"
+              href="https://instagram.com/nessa_glam_studio"
               target="_blank"
               rel="noopener noreferrer"
               className={`transition-all duration-300 hover:scale-110 ${
