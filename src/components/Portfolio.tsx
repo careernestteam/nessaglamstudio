@@ -28,7 +28,7 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      image: 'https://ibb.co/4kmkCCj?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+      image: 'https://i.ibb.co/Z9L9vvh/portrait-beautiful-black-woman-using-white-towel-her-face.jpg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
       alt: 'Natural makeup look - Professional makeup services Johannesburg',
       category: 'Natural Look',
       title: 'Soft Natural Glow'
